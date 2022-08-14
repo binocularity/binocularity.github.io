@@ -6,7 +6,7 @@ Not surprisingly a number of these projects related to COVID-19 and its impact a
 Looking to the future there is a pressing need for cognitive technologies that work with people to help find ways to address the most difficult challenges we have faced in many people’s lifetimes. 
 
 ![CUSP London COVID Visuals](./assets/covid2022.jpg)
-*COVID 19 in London in 2022, an example of bivariate glyphs representing case rates and whether they are increasing or decreasing* 
+*COVID 19 in London in 2022, an example of bivariate glyphs representing both case rates and whether cases are increasing or decreasing* 
 
 ## More Information
 This is currently a test page.
