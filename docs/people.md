@@ -8,3 +8,6 @@ We have teams of academics, a group of associates from external partners and stu
     <td> <img src="./assets/claire.jpg" alt="2" width = 260px height = 260px> <div class="caption"> Claire Crowther <br> Centre Manager </div> </td>
    </tr> 
 </table>
+
+## More Information
+This is currently a test page.
