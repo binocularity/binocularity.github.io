@@ -2,4 +2,4 @@
 
 Welcome, and thanks for choosing our product.
 
-The link to the [first page is here](/binocularity/pageOne.html).
+The link to the [first page is here](/binocularity/docs/pageOne.html).
