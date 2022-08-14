@@ -1,4 +1,4 @@
-# c. People
+# Who We Are
 
 We have a multi-disciplinary teams of academics, a group of associates from external partners and students working  with CUSP.
 
