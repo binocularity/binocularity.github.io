@@ -1,4 +1,4 @@
-# b. Research
+# Research
 
 Inherently multidisciplinary research has led CUSP London to become involved in a diverse range of projects during the last few years. 
 Not surprisingly a number of these projects related to COVID-19 and its impact around the world, as academics from all disciplines worked to contribute to understanding and resisting  the pandemic.
