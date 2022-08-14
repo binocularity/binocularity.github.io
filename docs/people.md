@@ -1,4 +1,4 @@
-# c. People in CUSP London
+# c. People
 
 We have a multi-disciplinary teams of academics, a group of associates from external partners and students working  with CUSP.
 
