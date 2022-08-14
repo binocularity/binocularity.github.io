@@ -1,3 +1,3 @@
-# This is the first page 
+# Research
 
-There is some introduction information here.
+We research data science methods in and for London iincluding data analytics, data visualization, machien learning and AI.
