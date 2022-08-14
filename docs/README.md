@@ -2,4 +2,4 @@
 
 Welcome, and thanks for choosing our product.
 
-The link to the [first page is here] (/docs/pageOne.html).
+The link to the [first page is here](/docs/pageOne.html).
