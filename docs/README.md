@@ -1,5 +1,8 @@
-# Please start here
+# Welcome to CUSP London
 
-Welcome, and thanks for choosing our product.
+We are the Centre for Urban Science and Progress based in London, UK.
 
-The link to the [first page is here](./pageOne.html).
+You can fuind information about our activities in the links to the left.
+
+## More information
+This is currently a test page.
