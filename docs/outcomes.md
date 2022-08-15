@@ -16,7 +16,7 @@
     </td>
    </tr> 
   
-     <tr>
+   <tr>
     <td> <img src="./assets/skillsKT.png" alt="Skill Development" > </td>
     <td> 
 Skills and knowledge transfer, enhancing the student experience and co-developing new skillsets guided by 29 CUSP London Associates.
