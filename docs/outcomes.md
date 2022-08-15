@@ -23,11 +23,10 @@ Skills and knowledge transfer, enhancing the student experience and co-developin
     </td>
    </tr> 
   
-     <tr>
+   <tr>
     <td> <img src="./assets/strand.png" alt="External partnerships" > </td>
     <td> 
-      Multidisciplinary engagement with twenty external partners, eg the Strand-Aldwych redevelopment
-project.
+      Multidisciplinary engagement with twenty external partners, eg the Strand-Aldwych redevelopment project.
     </td>
    </tr> 
   
