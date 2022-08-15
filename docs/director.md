@@ -2,7 +2,7 @@
 
 Joining CUSP London this year has been a chance to listen and learn about its many
 achievements as CUSP London develops new directions following the pandemic and the
-evolution this brought to urban living. This report reflects on those achievements and looks
+evolution this brought to urban living. These pages reflect on those achievements and look
 forward to how cognitive technologies will impact on our cities in the coming years.
 Cognitive technologies, including Data Science, AI, Visualization, AR and VR will help us
 understand our cities now, predict where they could go in the future and support our
