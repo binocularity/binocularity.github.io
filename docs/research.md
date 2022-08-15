@@ -8,5 +8,8 @@ Looking to the future there is a pressing need for cognitive technologies that w
 ![CUSP London COVID Visuals](./assets/covid2022.jpg)
 *COVID 19 in London in 2022, an example of bivariate glyphs representing both case rates and whether cases are increasing or decreasing* 
 
+![Evolution of COVID Responses](./assets/Quercia.jpg)
+*Evolution of responses to the COVID-19 pandemic in the U.S. tracked via Twitter three phases were observed, refusal, anger, acceptance. Aiello, Quercia et al, H&SMC (8), 2021.*
+
 ## More Information
 This is currently a test page.
