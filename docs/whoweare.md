@@ -1,6 +1,6 @@
 # Who We Are
 
-We have a multi-disciplinary teams of academics, a group of associates from external partners and students working  with CUSP.
+CUSP London brings together a multi-disciplinary teams of academics, a group of associates from external partners and students working  with CUSP.
 
 <table>
   <tr>
