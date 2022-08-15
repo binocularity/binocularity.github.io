@@ -1,5 +1,5 @@
 # A Welcome to CUSP London
-![CUSP London Logo](./assets/CUSPbanner_300.jpg)
+![CUSP London Logo](./assets/CUSPbanner_00.jpg)
 
 We are the Centre for Urban Science and Progress based in London, UK.
 
