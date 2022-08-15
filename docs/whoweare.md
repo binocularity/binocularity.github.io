@@ -26,7 +26,7 @@ CUSP London brings together a multi-disciplinary teams of academics, a group of 
 |Angus Roberts|Institute of Psychiatry, Psychology and Neuroscience|
 |Alexandru Dregan|Institute of Psychiatry, Psychology and Neuroscience|
 |Kalliopi Mylona|Mathematics|
-|
+
 ## More Information
 This is currently a test page.
 
