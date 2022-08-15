@@ -14,7 +14,7 @@ We have a multi-disciplinary teams of academics, a group of associates from exte
 
 ## CUSP London Academic Partners
 
-| CUSP London Academics | Department |
+| Name | Department |
 |-----------------------|------------|
 |Alfie Abdul-Rahman|Informatics|
 |Rita Borgo|Informatics|
