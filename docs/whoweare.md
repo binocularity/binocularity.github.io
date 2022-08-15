@@ -11,7 +11,9 @@ We have a multi-disciplinary teams of academics, a group of associates from exte
     <td> <img src="./assets/yijing.png" alt="1" width = 260px height = 260px > <div class="caption"> Yijing Li <br> (Deputy Director Skills & Knowledge) </div> </td>
   </tr>
 </table>
+
 ## CUSP London Academic Partners
+
 | CUSP London Academics | Department |
 |-----------------------|------------|
 |Alfie Abdul-Rahman|Informatics|
