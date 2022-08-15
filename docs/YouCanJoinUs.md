@@ -1,5 +1,7 @@
 # You Can Join Us Too
 
+![CUSP London Logo](./assets/CUSPbanner_03.jpg)
+
 <table>
   <tr>
     <td> 
