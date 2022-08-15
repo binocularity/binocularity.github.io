@@ -14,7 +14,8 @@
       <br><br>
       Or follow us on:
       <br><br>
-      twitter : <a href = "@CUSPLondon">https://twitter.com/cusplondon</a>  
+      twitter : <a href = "https://twitter.com/cusplondon">@CUSPLondon</a>
+      <br>
       insta : @CUSPLondon
     </td>
     <td> <img src="./assets/bushHouse.png" alt="Bush House" width = 433px > </td>
