@@ -8,7 +8,7 @@
       <br>
       Get in touch if you have project ideas, to join our mailing list or just to know more about us:
     </td>
-    <td> <img src="./assets/bushHouse.png" alt="Bush House"  > </td>
+    <td> <img src="./assets/bushHouse.png" alt="Bush House" height = 400px > </td>
  </tr>
 </table>
 
