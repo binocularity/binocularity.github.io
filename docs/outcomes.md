@@ -8,6 +8,14 @@
       CUSP London generates many forms of output, both traditional academic work and broader engagements with external partners. 
     </td>
    </tr> 
+  
+   <tr>
+    <td> <img src="./assets/academicPaper.png" alt="Jali Packer" > </td>
+    <td> 
+      Academic outputs including journal articles and research grants from EPSRC, The Turing Institute, Research England and others.
+    </td>
+   </tr> 
+  
 </table>
 
 ## More Information
