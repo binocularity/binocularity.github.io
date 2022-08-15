@@ -9,6 +9,7 @@
     </td>
     <td> <img src="./assets/bushHouse.png" alt="Bush House"  > </td>
  </tr>
+</table>
 
 ## More Information
 This is currently a test page.
