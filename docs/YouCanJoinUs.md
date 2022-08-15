@@ -16,7 +16,7 @@
       <br><br>
       twitter : <a href = "https://twitter.com/cusplondon">@CUSPLondon</a>
       <br>
-      insta : @CUSPLondon
+      insta : <a href = "https://www.instagram.com/cusplondon/">@CUSPLondon</a>
     </td>
     <td> <img src="./assets/bushHouse.png" alt="Bush House" width = 433px > </td>
  </tr>
