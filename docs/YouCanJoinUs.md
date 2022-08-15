@@ -8,7 +8,8 @@
       <br>
       Get in touch if you have project ideas, to join our mailing list or just to know more about us:
       <br><br>
-      www <a href="https://cusplondon.ac.uk/">cusplondon.ac.uk</a>
+      www : <a href="https://cusplondon.ac.uk/">cusplondon.ac.uk</a>
+      eml :  <a href = "mailto: CUSP-London@kcl.ac.uk">CUSP-London@kcl.ac.uk</a>
     </td>
     <td> <img src="./assets/bushHouse.png" alt="Bush House" width = 433px > </td>
  </tr>
