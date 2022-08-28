@@ -1,4 +1,4 @@
-# You Can Join Us Too
+# You Can Join Us Here
 
 ![CUSP London Logo](./assets/CUSPbanner_03.jpg)
 
