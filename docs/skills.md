@@ -7,4 +7,6 @@ A highlight of the CUSP London year is the annual Data Dive, a week long event b
 *Loved the event, met a lot of students from other universities and learnt a lot. Data Dive 2022* 
 
 ## More Information
-This is currently a test page.
+[Contact us here.](./YouCanJoinUs.md)
+
+![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
