@@ -18,4 +18,6 @@ A CUSP placement at global consulting firm WSP provided me the connections which
 <br>
 
 ## More Information
-This is currently a test page.
+[Contact us here.](./YouCanJoinUs.md)
+
+![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
