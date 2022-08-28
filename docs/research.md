@@ -12,4 +12,6 @@ Looking to the future there is a pressing need for cognitive technologies that w
 *Evolution of responses to the COVID-19 pandemic in the U.S. tracked via Twitter three phases were observed, refusal, anger, acceptance. Aiello, Quercia et al, H&SMC (8), 2021.*
 
 ## More Information
-This is currently a test page.
+[Contact us here.](./YouCanJoinUs.md)
+
+![CUSP London Logo](./assets/CUSPbanner_03.jpg)
