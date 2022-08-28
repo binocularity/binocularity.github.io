@@ -14,3 +14,5 @@ decision making on the way.
 
 ## More Information
 [Contact us here.](./YouCanJoinUs.md)
+
+![CUSP London Logo](./assets/CUSPbanner_03.jpg)
