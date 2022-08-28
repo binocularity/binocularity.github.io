@@ -9,5 +9,5 @@ Our mission is to support interdisciplinary research and innovation using Data S
 You can find information about our activities in the attached links.
 
 ## More information
-This is currently a test page.
+![Contact us here.](./YouCanJoinUs.html)
  
