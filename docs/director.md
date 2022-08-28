@@ -13,4 +13,4 @@ decision making on the way.
 *Nick Holliman, Director CUSP London 2022* 
 
 ## More Information
-This is currently a test page.
+[Contact us here.](./YouCanJoinUs.md)
