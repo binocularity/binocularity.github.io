@@ -34,4 +34,6 @@ Skills and knowledge transfer, enhancing the student experience and co-developin
 </table>
 
 ## More Information
-This is currently a test page.
+[Contact us here.](./YouCanJoinUs.md)
+
+![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
