@@ -10,3 +10,5 @@ You can find information about our activities in the attached links.
 
 ## More information
 [Contact us here.](./YouCanJoinUs.md)
+
+![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
