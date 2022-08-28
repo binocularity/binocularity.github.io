@@ -24,7 +24,6 @@
  </tr>
 </table>
 
-## More Information
-This is currently a test page.
+![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
 
 
