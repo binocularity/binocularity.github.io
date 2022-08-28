@@ -14,4 +14,4 @@ Looking to the future there is a pressing need for cognitive technologies that w
 ## More Information
 [Contact us here.](./YouCanJoinUs.md)
 
-![CUSP London Logo](./assets/CUSPbanner_03.jpg)
+![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
