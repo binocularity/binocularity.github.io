@@ -10,4 +10,3 @@ You can find information about our activities in the attached links.
 
 ## More information
 [Contact us here.](./YouCanJoinUs.md)
- 
